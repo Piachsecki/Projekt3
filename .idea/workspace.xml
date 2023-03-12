@@ -1,28 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fa34f9-971a-4372-9ed3-118329d7e06b" name="Changes" comment="" />
+    <list default="true" id="46fa34f9-971a-4372-9ed3-118329d7e06b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/domain/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exported/ex3/report.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Purchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/client-car-purchase-spreadsheet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/client-car-purchase-spreadsheet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/PurchaseMappingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/PurchaseMappingService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2MsQJtv9H4Qb8p7gUtQ44ghq2uC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "database.data.extractors.current.id": "Comma-separated (CSV)_id",
+    "last_opened_file_path": "C:/Users/krpia/OneDrive/Pulpit/StudiaProgramowanie/Projekt3/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="domain" />
+      <recent name="doman" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krpia\OneDrive\Pulpit\StudiaProgramowanie\Projekt3\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krpia\OneDrive\Pulpit\StudiaProgramowanie\Projekt3\src\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Projekt3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +81,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678553743676</updated>
+      <workItem from="1678553745054" duration="10470000" />
+      <workItem from="1678608795144" duration="7650000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +99,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

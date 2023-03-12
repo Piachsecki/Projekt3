@@ -1,0 +1,513 @@
+id,company,model,average_price,count1,Lexus,SC,56543.13,2
+2,Lexus,IS-F,20327.75,1
+3,Lexus,IS F,40066.54,2
+4,Lexus,LS,59232.04,2
+5,Lexus,IS,36857.76,2
+6,Lexus,GS,68162.34,1
+7,Lexus,LX,61266.53,1
+8,Lexus,ES,75323.10,1
+9,Subaru,Loyale,43850.02,1
+10,Subaru,Leone,61810.51,1
+11,Subaru,SVX,96360.87,1
+12,Subaru,Justy,45364.84,3
+13,Subaru,Tribeca,51935.34,1
+14,Subaru,Outback,55051.50,2
+15,Subaru,Legacy,64798.95,3
+16,Subaru,Forester,81288.87,3
+17,Chevrolet,Tracker,72207.02,1
+18,Chevrolet,Cavalier,51423.39,3
+19,Chevrolet,Venture,61806.78,1
+20,Chevrolet,Corvette,31658.70,7
+21,Chevrolet,Caprice Classic,73905.56,1
+22,Chevrolet,Cobalt,67487.58,1
+23,Chevrolet,Sportvan G30,69505.22,3
+24,Chevrolet,Camaro,69624.54,1
+25,Chevrolet,Suburban 1500,65723.19,1
+26,Chevrolet,HHR,31663.47,3
+27,Chevrolet,2500,36915.59,2
+28,Chevrolet,Monte Carlo,66959.46,1
+29,Chevrolet,Metro,85396.15,2
+30,Chevrolet,Colorado,34649.48,2
+31,Chevrolet,Cobalt SS,68941.55,1
+32,Chevrolet,Express 2500,41362.38,2
+33,Chevrolet,Avalanche 1500,49791.30,2
+34,Chevrolet,G-Series G10,81369.28,2
+35,Chevrolet,Tahoe,48509.46,1
+36,Chevrolet,Silverado 2500,66028.31,4
+37,Chevrolet,TrailBlazer,44096.10,2
+38,Chevrolet,Aveo,54181.97,1
+39,Chevrolet,Express,74983.39,1
+40,Chevrolet,Malibu,44671.39,2
+41,Chevrolet,Caprice,13506.45,2
+42,Chevrolet,Lumina,40238.98,2
+43,Chevrolet,Impala,42254.03,2
+44,Chevrolet,Suburban 2500,52548.65,4
+45,Chevrolet,S10,72424.96,1
+46,Chevrolet,1500,55351.94,2
+47,Chevrolet,SSR,47507.31,1
+48,Chevrolet,Equinox,52849.21,1
+49,Chevrolet,3500,80037.02,1
+50,Chevrolet,Sportvan G20,46420.20,1
+51,Chevrolet,Silverado 3500,40912.28,1
+52,Chevrolet,Express 3500,57712.50,4
+53,Chevrolet,G-Series G20,55204.46,3
+54,Chevrolet,Express 1500,20331.56,2
+55,Citroën,2CV,21373.33,1
+56,Austin,Mini Cooper S,98795.19,1
+57,Austin,Mini Cooper,11178.82,1
+58,Chrysler,300,91386.40,1
+59,Chrysler,Town & Country,49787.57,2
+60,Chrysler,Cirrus,52197.41,1
+61,Chrysler,New Yorker,639.91,1
+62,Chrysler,PT Cruiser,62201.01,3
+63,Chrysler,Sebring,91316.41,2
+64,Chrysler,Voyager,22886.89,1
+65,Chrysler,Concorde,35155.30,5
+66,Chrysler,300M,50595.13,2
+67,Chrysler,Aspen,43763.08,1
+68,Maserati,Quattroporte,83431.20,1
+69,Maserati,Biturbo,64426.98,1
+70,Maserati,Coupe,2453.93,1
+71,Maserati,GranTurismo,9968.08,1
+72,Infiniti,Q,22305.50,1
+73,Infiniti,FX,30829.72,3
+74,Infiniti,EX,1044.88,1
+75,Infiniti,QX,94251.36,1
+76,Infiniti,G,53640.04,2
+77,Infiniti,G35,70158.45,1
+78,Infiniti,I,23254.85,1
+79,Infiniti,J,28641.01,1
+80,Infiniti,G37,91197.03,1
+81,Infiniti,M,49684.48,2
+82,Suzuki,Grand Vitara,46821.21,1
+83,Suzuki,Sidekick,69918.56,1
+84,Suzuki,Kizashi,49388.37,1
+85,Suzuki,Verona,48857.49,1
+86,Suzuki,Swift,53303.03,2
+87,Suzuki,SX4,22436.09,1
+88,Suzuki,SJ 410,47819.20,1
+89,Lincoln,Navigator L,48521.65,1
+90,Lincoln,Continental,66092.79,1
+91,Lincoln,Navigator,35401.09,3
+92,Lincoln,Blackwood,31306.78,1
+93,Lincoln,MKT,33481.78,2
+94,Lincoln,Mark VIII,53874.79,1
+95,Lincoln,Town domain.Car,85584.71,2
+96,GMC,Sierra 2500HD,40112.71,1
+97,GMC,Yukon XL,11181.27,1
+98,GMC,Sierra 3500,53506.27,1
+99,GMC,Sierra 1500,56821.35,1
+100,GMC,Safari,56426.99,2
+101,GMC,Sierra,51743.05,1
+102,GMC,2500 Club Coupe,45723.16,1
+103,GMC,Sierra 3500HD,50305.11,2
+104,GMC,Suburban 2500,84627.60,1
+105,GMC,Yukon,50813.30,3
+106,GMC,Suburban 1500,44515.49,2
+107,GMC,Savana 3500,48813.54,2
+108,GMC,Savana 2500,78570.98,3
+109,GMC,1500,33566.67,2
+110,GMC,Yukon XL 2500,69035.73,1
+111,GMC,2500,30084.86,2
+112,GMC,Yukon XL 1500,55144.44,1
+113,GMC,Envoy,58388.07,1
+114,GMC,Sierra Denali,98958.47,1
+115,GMC,Rally Wagon G3500,35595.63,1
+116,GMC,Savana 1500,40340.91,1
+117,GMC,Savana,31054.78,1
+118,GMC,Rally Wagon 3500,12368.59,1
+119,GMC,Jimmy,55800.43,2
+120,Hyundai,Santa Fe,38452.21,1
+121,Hyundai,Scoupe,66626.90,1
+122,Hyundai,Accent,24414.07,3
+123,Hyundai,Tucson,96352.61,1
+124,Hyundai,Genesis Coupe,16713.20,1
+125,Hyundai,Azera,15995.83,3
+126,Hyundai,Genesis,1489.55,1
+127,Hyundai,Veracruz,43679.31,2
+128,Hyundai,Elantra,50235.75,2
+129,Hyundai,Sonata,52611.10,5
+130,Hyundai,Tiburon,64358.19,1
+131,Eagle,Talon,15778.36,1
+132,Eagle,Vision,70650.33,3
+133,Aston Martin,DBS,72356.01,1
+134,Aston Martin,DB9,12360.74,2
+135,Acura,NSX,61847.47,2
+136,Acura,RDX,64467.57,1
+137,Acura,TL,58218.04,3
+138,Acura,CL,82961.35,1
+139,Acura,RL,53598.89,2
+140,Acura,Integra,24435.25,1
+141,Acura,ZDX,74967.68,1
+142,Kia,Sedona,65796.00,2
+143,Kia,Soul,30479.21,1
+144,Kia,Optima,36354.28,1
+145,Kia,Rio,56535.40,2
+146,Kia,Sportage,62965.49,1
+147,Kia,Spectra,51367.19,2
+148,Pontiac,Trans Sport,305.73,1
+149,Pontiac,Grand Prix,52396.50,7
+150,Pontiac,Montana,49063.18,1
+151,Pontiac,GTO,86303.79,1
+152,Pontiac,6000,5256.21,1
+153,Pontiac,1000,84056.46,1
+154,Pontiac,Firebird,98532.02,1
+155,Pontiac,Daewoo Kalos,87202.11,1
+156,Pontiac,Bonneville,52898.22,3
+157,Pontiac,Sunbird,69493.46,3
+158,Pontiac,G5,453.87,1
+159,Pontiac,G6,58288.47,3
+160,Pontiac,G8,22416.36,2
+161,Pontiac,Solstice,20647.67,1
+162,Pontiac,Fiero,8202.10,1
+163,Pontiac,LeMans,76709.61,5
+164,Pontiac,Grand Am,31178.86,1
+165,Pontiac,Vibe,45140.29,2
+166,Plymouth,Colt,57417.48,1
+167,Plymouth,Voyager,76413.54,3
+168,Plymouth,Grand Voyager,12759.28,1
+169,Plymouth,Volare,88917.51,1
+170,Plymouth,Colt Vista,53245.72,1
+171,Saab,9-5,56350.28,4
+172,Saab,900,49071.87,2
+173,Saab,9000,54097.90,3
+174,Saab,9-3,35561.43,1
+175,Saab,9-7X,52846.43,3
+176,Mazda,CX-7,57379.68,4
+177,Mazda,CX-5,56757.95,1
+178,Mazda,Tribute,8031.83,1
+179,Mazda,Familia,77000.45,2
+180,Mazda,Millenia,30280.26,2
+181,Mazda,B-Series Plus,74289.14,4
+182,Mazda,MX-6,56681.54,1
+183,Mazda,MPV,74117.86,2
+184,Mazda,MX-3,40200.92,1
+185,Mazda,RX-7,57805.22,2
+186,Mazda,RX-8,62387.06,1
+187,Mazda,MX-5,27450.91,4
+188,Mazda,B2000,69924.62,1
+189,Mazda,626,44541.57,3
+190,Mazda,Mazda2,77296.02,1
+191,Mazda,Mazdaspeed 3,67873.92,2
+192,Mazda,Miata MX-5,34512.20,1
+193,Mazda,CX-9,19705.91,1
+194,Geo,Metro,38388.19,2
+195,Maybach,57,38236.61,5
+196,Maybach,62,92208.52,1
+197,Toyota,Land Cruiser,60095.49,5
+198,Toyota,Avalon,65967.62,2
+199,Toyota,Sienna,68263.57,1
+200,Toyota,Celica,57965.43,2
+201,Toyota,Tacoma Xtra,21831.86,3
+202,Toyota,Solara,76247.84,1
+203,Toyota,Tacoma,46107.43,2
+204,Toyota,4Runner,63457.53,4
+205,Toyota,Previa,75874.85,1
+206,Toyota,Matrix,66666.84,1
+207,Toyota,Supra,8892.98,1
+208,Toyota,Sequoia,20976.79,3
+209,Toyota,TundraMax,21198.48,1
+210,Toyota,Corolla,79216.34,3
+211,Toyota,Ipsum,41036.16,1
+212,Toyota,T100 Xtra,83465.10,1
+213,Toyota,Echo,57053.25,1
+214,Toyota,Yaris,95943.63,1
+215,Toyota,Highlander,75387.39,2
+216,Toyota,RAV4,23849.33,2
+217,Toyota,Camry,79146.73,3
+218,Toyota,MR2,46421.38,1
+219,Toyota,FJ Cruiser,42841.55,1
+220,Toyota,Tercel,16793.13,1
+221,Toyota,Prius,74990.25,2
+222,Toyota,T100,69955.21,2
+223,Toyota,Tundra,32866.82,2
+224,Tesla,Roadster,7056.76,1
+225,Jaguar,S-Type,52177.16,2
+226,Jaguar,XK,18787.12,1
+227,Jaguar,XK Series,62836.96,2
+228,Jaguar,XJ Series,23694.81,4
+229,Spyker,C8 Double 12 S,96561.56,1
+230,Mercedes-Benz,C-Class,47498.64,4
+231,Mercedes-Benz,300TE,58487.99,1
+232,Mercedes-Benz,CL-Class,77944.64,1
+233,Mercedes-Benz,CLS-Class,3183.57,1
+234,Mercedes-Benz,SL-Class,46809.55,7
+235,Mercedes-Benz,SLS AMG,42979.41,2
+236,Mercedes-Benz,300E,69282.52,1
+237,Mercedes-Benz,300D,17810.02,1
+238,Mercedes-Benz,SL65 AMG,12734.28,1
+239,Mercedes-Benz,E-Class,44487.30,7
+240,Mercedes-Benz,CL65 AMG,59195.01,1
+241,Mercedes-Benz,S-Class,58820.15,3
+242,Mercedes-Benz,CLK-Class,93260.59,1
+243,Mercedes-Benz,W123,44748.84,1
+244,Mercedes-Benz,W201,89769.70,2
+245,Mercedes-Benz,SLK-Class,58529.92,5
+246,Mercedes-Benz,M-Class,87429.69,2
+247,Mercedes-Benz,G-Class,60823.89,2
+248,Mercedes-Benz,R-Class,43385.52,3
+249,Mercedes-Benz,SLR McLaren,98123.27,1
+250,Panoz,Esperante,53455.19,1
+251,Daewoo,Leganza,94984.18,1
+252,Volkswagen,Golf,49141.57,5
+253,Volkswagen,Jetta,63644.82,5
+254,Volkswagen,GLI,82687.12,1
+255,Volkswagen,Phaeton,12833.78,1
+256,Volkswagen,Cabriolet,27471.45,5
+257,Volkswagen,Rabbit,31841.94,2
+258,Volkswagen,Fox,77660.74,1
+259,Volkswagen,Quantum,87150.11,1
+260,Volkswagen,Passat,51683.94,2
+261,Volkswagen,Type 2,42551.68,1
+262,Volkswagen,rio,29444.06,2
+263,Volkswagen,New Beetle,31785.83,2
+264,Volkswagen,GTI,45189.68,6
+265,Volkswagen,Touareg,22049.47,1
+266,Volkswagen,Tiguan,15415.59,1
+267,Volvo,V50,95214.12,1
+268,Volvo,C30,48525.09,1
+269,Volvo,850,57499.64,2
+270,Volvo,S80,62328.06,3
+271,Volvo,XC90,62013.01,3
+272,Volvo,S60,3041.86,1
+273,Volvo,C70,28721.16,1
+274,Volvo,XC70,62194.10,2
+275,Volvo,V70,41084.16,2
+276,Volvo,S40,8727.31,2
+277,Saturn,S-Series,9017.03,2
+278,Saturn,Relay,47066.72,1
+279,Saturn,VUE,26812.74,1
+280,Dodge,Dakota Club,13560.29,3
+281,Dodge,Avenger,50970.71,2
+282,Dodge,Viper,41325.74,1
+283,Dodge,Viper RT/10,42522.73,1
+284,Dodge,Ram Van 1500,23748.60,3
+285,Dodge,Ram 2500,60999.32,1
+286,Dodge,D150 Club,45687.25,1
+287,Dodge,Neon,51312.46,2
+288,Dodge,Charger,76910.88,3
+289,Dodge,Magnum,64382.28,1
+290,Dodge,Ram Wagon B250,40716.78,2
+291,Dodge,Ram Wagon B350,81464.86,1
+292,Dodge,Daytona,65849.56,1
+293,Dodge,Grand Caravan,38336.78,6
+294,Dodge,Stratus,52345.73,4
+295,Dodge,Spirit,62428.34,1
+296,Dodge,Caravan,36938.07,3
+297,Dodge,Ram Van B250,23476.59,1
+298,Dodge,Ram Van 2500,75736.61,2
+299,Dodge,Ram Van B350,67422.63,2
+300,Dodge,Ram 1500,97824.94,2
+301,Dodge,Ram Van B150,94292.51,1
+302,Dodge,Durango,45584.85,1
+303,Dodge,Ram 2500 Club,44568.78,2
+304,Dodge,Dakota,81294.16,4
+305,Dodge,Ram 3500 Club,51816.43,1
+306,Audi,TT,66745.47,1
+307,Audi,S4,74608.07,3
+308,Audi,V8,94151.66,1
+309,Audi,A3,30444.75,6
+310,Audi,A4,52819.73,2
+311,Audi,S8,17758.68,1
+312,Audi,A6,12696.50,2
+313,Audi,Q7,4808.26,1
+314,Audi,Quattro,49492.18,1
+315,Audi,A8,28415.30,4
+316,Audi,5000S,62830.11,1
+317,Audi,Coupe GT,19044.06,1
+318,Corbin,Sparrow,73545.83,1
+319,Honda,Pilot,40414.07,2
+320,Honda,CR-Z,29907.54,2
+321,Honda,Ridgeline,56635.51,1
+322,Honda,CR-X,30531.61,1
+323,Honda,Element,76710.10,1
+324,Honda,CR-V,47764.77,5
+325,Honda,Odyssey,62767.96,3
+326,Honda,Civic,60579.80,5
+327,Honda,Accord,70393.65,3
+328,Honda,Prelude,99807.80,1
+329,Honda,Fit,51534.78,2
+330,Honda,del Sol,38137.21,1
+331,Honda,Passport,68602.70,1
+332,Honda,S2000,87946.88,1
+333,Honda,Insight,62828.48,1
+334,Morgan,Aero 8,48364.87,2
+335,Scion,xD,40805.33,1
+336,Porsche,924 S,96664.65,1
+337,Porsche,911,55710.80,7
+338,Porsche,Cayenne,61091.16,2
+339,Porsche,Boxster,56475.42,2
+340,Oldsmobile,Alero,19600.82,1
+341,Oldsmobile,Achieva,27909.39,2
+342,Oldsmobile,Bravada,99984.84,1
+343,Oldsmobile,Silhouette,28639.54,3
+344,Oldsmobile,Intrigue,41002.69,3
+345,Oldsmobile,Cutlass Supreme,65983.23,2
+346,Isuzu,Hombre Space,14300.87,1
+347,Isuzu,Amigo,36303.51,1
+348,Isuzu,i-370,18055.25,1
+349,Isuzu,Rodeo Sport,59634.95,1
+350,Isuzu,Rodeo,57503.35,3
+351,Isuzu,Trooper,52786.98,3
+352,Isuzu,Ascender,3700.19,1
+353,Isuzu,Stylus,3457.00,1
+354,Rolls-Royce,Phantom,74614.54,2
+355,Aptera,Typ-1,24570.34,1
+356,Jeep,Cherokee,3765.12,1
+357,Jeep,Wrangler,61759.51,1
+358,Jeep,Grand Cherokee,825.37,1
+359,Jeep,Liberty,53602.37,2
+360,Jeep,Compass,92254.93,1
+361,Buick,Rainier,80773.22,1
+362,Buick,Roadmaster,51315.28,3
+363,Buick,Estate,81302.51,1
+364,Buick,Park Avenue,47476.94,3
+365,Buick,Rendezvous,60979.48,2
+366,Buick,Century,15429.60,2
+367,Buick,Regal,68515.25,2
+368,Buick,Riviera,44679.36,2
+369,Buick,Coachbuilder,77371.88,2
+370,Buick,Skylark,96346.01,1
+371,Buick,Skyhawk,13632.45,1
+372,Buick,LeSabre,11736.40,2
+373,Buick,Lucerne,2848.09,1
+374,Buick,LaCrosse,72117.76,2
+375,Mitsubishi,Endeavor,46103.38,4
+376,Mitsubishi,Raider,39151.00,3
+377,Mitsubishi,GTO,47675.27,3
+378,Mitsubishi,Pajero,67780.11,5
+379,Mitsubishi,Eclipse,53152.92,3
+380,Mitsubishi,3000GT,69929.29,1
+381,Mitsubishi,Challenger,24182.93,1
+382,Mitsubishi,Truck,33591.64,4
+383,Mitsubishi,Mirage,57542.27,5
+384,Mitsubishi,Lancer,36868.81,2
+385,Mitsubishi,Expo,44918.65,1
+386,Mitsubishi,Montero,17600.19,3
+387,Mitsubishi,Starion,73250.49,3
+388,Mitsubishi,Outlander,20062.34,1
+389,Mitsubishi,Montero Sport,10997.24,1
+390,Mitsubishi,Lancer Evolution,47783.49,2
+391,Lotus,Exige,25498.46,1
+392,Lotus,Elise,21021.05,1
+393,Lotus,Esprit,29091.35,4
+394,BMW,1 Series,59998.39,1
+395,BMW,X5 M,74527.00,1
+396,BMW,M3,42692.66,6
+397,BMW,M5,58268.78,2
+398,BMW,6 Series,68700.38,2
+399,BMW,M,70022.09,1
+400,BMW,3 Series,25209.61,2
+401,BMW,7 Series,56916.01,3
+402,BMW,5 Series,30331.36,4
+403,BMW,8 Series,36491.19,1
+404,BMW,330,3362.42,1
+405,BMW,760,64420.39,2
+406,BMW,530,52027.50,2
+407,BMW,545,62614.35,1
+408,BMW,600,72427.80,1
+409,BMW,Z4,60693.28,2
+410,BMW,X5,39080.49,4
+411,BMW,X6,70621.04,2
+412,BMW,Alpina B7,52180.50,2
+413,Bentley,Azure,16032.57,1
+414,Bentley,Mulsanne,44587.82,1
+415,Bentley,Continental,57996.64,1
+416,Bentley,Continental Flying Spur,4558.80,1
+417,Bentley,Continental Super,95732.27,1
+418,Bentley,Continental GTC,46403.57,1
+419,Land Rover,Freelander,66450.69,1
+420,Land Rover,Discovery Series II,72459.38,1
+421,Land Rover,Discovery,60949.33,2
+422,Land Rover,Range Rover Sport,54214.94,2
+423,Land Rover,LR3,55622.30,1
+424,Land Rover,Range Rover,37295.49,5
+425,Cadillac,Escalade EXT,61311.69,3
+426,Cadillac,CTS,55005.05,2
+427,Cadillac,Escalade,38625.55,2
+428,Cadillac,Eldorado,35842.00,2
+429,Cadillac,Fleetwood,97896.49,1
+430,Cadillac,SRX,42435.24,2
+431,Cadillac,Escalade ESV,47640.03,2
+432,Cadillac,CTS-V,32070.04,2
+433,Cadillac,Seville,34221.72,3
+434,Cadillac,DeVille,36474.73,2
+435,Lamborghini,Diablo,84469.78,3
+436,Lamborghini,Countach,62789.57,1
+437,Lamborghini,Gallardo,69162.65,3
+438,MINI,Cooper,1568.56,1
+439,MINI,Clubman,16641.30,1
+440,Fiat,Nuova 500,66508.75,1
+441,Hummer,H1,50614.51,2
+442,Hummer,H2,29204.91,1
+443,Hummer,H3,13377.50,1
+444,Ford,Ranger,76490.49,2
+445,Ford,Galaxie,64097.32,1
+446,Ford,Five Hundred,63582.71,1
+447,Ford,Th!nk,82727.44,1
+448,Ford,F-Series Super Duty,38252.92,2
+449,Ford,E150,70611.65,3
+450,Ford,E250,98725.52,1
+451,Ford,Festiva,12769.30,1
+452,Ford,Probe,72607.29,2
+453,Ford,F-Series,58577.24,4
+454,Ford,Aerostar,66587.07,4
+455,Ford,E-Series,24541.08,3
+456,Ford,Freestyle,85917.70,1
+457,Ford,Contour,48603.83,1
+458,Ford,Crown Victoria,68736.15,4
+459,Ford,Econoline E250,33190.68,2
+460,Ford,Thunderbird,44446.88,9
+461,Ford,Econoline E350,47165.28,2
+462,Ford,Windstar,43530.32,2
+463,Ford,Econoline E150,32563.81,2
+464,Ford,Mustang,50359.98,9
+465,Ford,Escape,52400.51,5
+466,Ford,Bronco,38713.68,2
+467,Ford,F150,18794.04,2
+468,Ford,F250,65510.32,4
+469,Ford,F350,50059.01,4
+470,Ford,Freestar,74898.80,1
+471,Ford,F450,66244.66,1
+472,Ford,Excursion,73354.65,1
+473,Ford,Taurus,37937.50,5
+474,Ford,Transit Connect,99772.91,1
+475,Ford,Tempo,27841.50,4
+476,Ford,Laser,72397.17,2
+477,Ford,Expedition,75097.49,2
+478,Ford,Fusion,84373.36,1
+479,Ford,Escort,34041.27,1
+480,Ford,Edge,23688.13,1
+481,Ford,Explorer,58328.32,2
+482,Mercury,Sable,53139.95,3
+483,Mercury,Lynx,75668.95,2
+484,Mercury,Milan,63884.95,1
+485,Mercury,Grand Marquis,47096.44,7
+486,Mercury,Capri,8438.45,1
+487,Mercury,Tracer,28478.94,2
+488,Mercury,Mountaineer,35728.23,3
+489,Mercury,Villager,38697.31,3
+490,Mercury,Mystique,94727.98,1
+491,Mercury,Cougar,59532.13,5
+492,Mercury,Topaz,53162.23,3
+493,Mercury,Mariner,43659.08,3
+494,Ram,2500,49301.29,1
+495,Ram,Dakota,30072.66,1
+496,Nissan,200SX,41834.99,1
+497,Nissan,Sentra,45330.47,4
+498,Nissan,Xterra,45446.22,2
+499,Nissan,Armada,89173.53,1
+500,Nissan,Altima,55895.73,7
+501,Nissan,Frontier,20489.68,1
+502,Nissan,Maxima,52140.06,2
+503,Nissan,Rogue,45315.63,1
+504,Nissan,Quest,19223.04,3
+505,Nissan,Pathfinder Armada,96775.20,1
+506,Nissan,Pathfinder,60357.93,5
+507,Nissan,GT-R,3222.64,1
+508,Nissan,300ZX,48537.54,2
+509,Nissan,Cube,53525.58,1
+510,Nissan,Versa,91895.71,1
+511,Nissan,350Z,39853.04,1
+512,Nissan,Datsun/Nissan Z-car,76735.67,2
+513,Nissan,Titan,29811.37,2
