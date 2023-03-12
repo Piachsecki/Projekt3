@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fa34f9-971a-4372-9ed3-118329d7e06b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/domain/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exported/ex3/report.csv" afterDir="false" />
+    <list default="true" id="46fa34f9-971a-4372-9ed3-118329d7e06b" name="Changes" comment="#3">
+      <change afterPath="$PROJECT_DIR$/src/exported/ex4/byDate.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Purchase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/client-car-purchase-spreadsheet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/client-car-purchase-spreadsheet.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/FileService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/PurchaseMappingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/PurchaseMappingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +41,8 @@
     "WebServerToolWindowFactoryState": "false",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "database.data.extractors.current.id": "Comma-separated (CSV)_id",
-    "last_opened_file_path": "C:/Users/krpia/OneDrive/Pulpit/StudiaProgramowanie/Projekt3/src"
+    "last_opened_file_path": "C:/Users/krpia/OneDrive/Pulpit/StudiaProgramowanie/Projekt3/src",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,8 +75,16 @@
       <option name="presentableId" value="Default" />
       <updated>1678553743676</updated>
       <workItem from="1678553745054" duration="10470000" />
-      <workItem from="1678608795144" duration="7650000" />
+      <workItem from="1678608795144" duration="13922000" />
     </task>
+    <task id="LOCAL-00001" summary="#3">
+      <created>1678638032623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678638032623</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="#3" />
+    <option name="LAST_COMMIT_MESSAGE" value="#3" />
   </component>
 </project>
